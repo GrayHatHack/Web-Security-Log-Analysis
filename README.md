@@ -21,5 +21,10 @@ To analyze web server access and error logs in a simulated environment to identi
 
 ---
 
+## 📸 Screenshots
+![Log Analysis Output](Screenshot%202026-10-01%20072244.png)
+
+---
+
 ## 🚀 Key Takeaway
 Learned how continuous log monitoring acts as an early warning system for web applications, enabling security analysts to catch and mitigate attacks early.
